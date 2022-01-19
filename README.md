@@ -1,6 +1,6 @@
 # Energy_Base_VAD
 
-[中文版]
+
 ### key-feature
 
 - energy based method, simple but effective and efficient.
@@ -13,9 +13,6 @@
 
 An example to generate new signal which only contains speech part.
 
-
-
-dfss
 
 ```python
 
