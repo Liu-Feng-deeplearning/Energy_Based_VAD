@@ -1,5 +1,6 @@
 # Energy_Base_VAD
 
+[中文版]
 ### key-feature
 
 - energy based method, simple but effective and efficient.
