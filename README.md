@@ -8,9 +8,12 @@
 - support offline-mode and online mode.
 - hpermerters has be proved in many speech tasks. 
 
+
 ### usage
 
 An example to generate new signal which only contains speech part.
+
+
 
 ```python
 
